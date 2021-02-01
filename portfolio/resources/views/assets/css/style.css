@@ -1,0 +1,114 @@
+html, body {
+    background-image: url("/portfolio/resources/views/assets/img/achtergrond2.jpg");
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #fff;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.projecten {
+    height: 50%;
+    width: 50%;
+    background-color: #000000;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 9px;
+    border-width: 9px;
+}
+
+.werkafbeelding {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#projecten {
+    height: auto;
+    width: auto;
+}
+
+.tekst {
+    width: 50%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+}
+
+
+
+.content {
+    text-align: center;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+ 
